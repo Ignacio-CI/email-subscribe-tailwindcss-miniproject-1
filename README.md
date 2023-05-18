@@ -40,4 +40,4 @@ Feel free to fork this project, make changes, submit pull requests, and send sug
 
 ## License
 
-This project is open-source and available to everyone under the [MIT License](./LICENSE).
+This project is open-source and available to everyone under the [MIT License](https://mit-license.org/).
